@@ -1,6 +1,7 @@
+![I am Front-end Developer](https://github.com/momin178/momin178/blob/main/html-css-responsive-jquery-javascript-bootstrap-psd%20to%20html.jpg)
 ### Hi there 👋, I'm ABDUR MOMIN MIA
 #### I am Front-end Developer
-![I am Front-end Developer](https://github.com/momin178/momin178/blob/main/html-css-responsive-jquery-javascript-bootstrap-psd%20to%20html.jpg)
+
 
 I am ambitious, enthusiastic, focused, organized, experienced, and easy to work with. I have the most experience in HTML, CSS, Bootstrap, jQuery, and JavaScript and I am ready to work on your projects. I confirm that you will get your job done correctly, on time, and within your budget.
 
