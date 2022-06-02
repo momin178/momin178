@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm ABDUR MOMIN MIA
+#### I am Front-end Developer
+![I am Front-end Developer](https://github.com/momin178/momin178/blob/main/html-css-responsive-jquery-javascript-bootstrap-psd%20to%20html.jpg)
 
-<!--
-**momin178/momin178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am ambitious, enthusiastic, focused, organized, experienced, and easy to work with. I have the most experience in HTML, CSS, Bootstrap, jQuery, and JavaScript and I am ready to work on your projects. I confirm that you will get your job done correctly, on time, and within your budget.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / Bootstrap5 / JS / jQuery / SASS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Fiverr 
+- 🌱 I’m currently learning PHP 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/momin178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/momin178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/momin178/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/momin178)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/momin178)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=momin178)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momin178)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=momin178&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=momin178)  
+
+![GitHub metrics](https://metrics.lecoq.io/momin178)  
+
+![Profile views](https://gpvc.arturio.dev/momin178)  
